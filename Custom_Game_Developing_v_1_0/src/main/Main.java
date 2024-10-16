@@ -8,6 +8,7 @@ public class Main {
 		System.out.println("New Line added!");
 		System.out.println("New Line added!");
 		System.out.println("New Line added!");
+		System.out.println("New Line added!");
 	}
 
 }
