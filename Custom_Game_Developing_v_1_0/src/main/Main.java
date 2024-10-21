@@ -14,6 +14,7 @@ public class Main {
 		System.out.println("New Line added!");
 		System.out.println("New Line added!");
 		System.out.println("New Line added!");
+		System.out.println("KIRILL");
 		System.out.println("JOOODIO");
 		System.out.println("YARR");
 		int i = 14;
