@@ -16,7 +16,7 @@ public class Main {
 		System.out.println("New Line added!");
 		System.out.println("KIRILL");
 		System.out.println("JOOODIO");
-		System.out.println("nayyyyyyyyyyyyyyyy");
+		System.out.println("schatz ich fahr dn baba wagen");
 		int i = 14;
 		System.out.println(i);
 		
